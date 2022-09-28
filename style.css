@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login-page{
+    height: 580px;
+    width: 100%;
+    background-color: rgb(252, 252, 141);
+    position: fixed;
+}
+h3{
+    text-align: center;
+    margin-top: 4%;
+    color: gray;
+}
+.input-page{
+    height: 50%;
+    width: 30%;
+    background-color: violet;
+    margin-top: 5%;
+    margin-left: 35%;
+    border-radius: 10px;
+}
+.input-page label{
+    color: blue;
+}
+.input-page a{
+    float: right;
+}
